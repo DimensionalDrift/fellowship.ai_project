@@ -1,2 +1,3 @@
-# fellowship.ai_project
-This is the repository of my application to the fellowship.ai program 
+# fellowship.ai Challenge
+
+This is the repository of my application to the fellowship.ai program. I chose the challenge 'Perform Text classification on 20 Newsgroups'. My submission is broken up into two Jupyter notebooks, the first one ```20_Newsgroups_Exploration.ipynb``` is an exploration and breakdown of the 20 Newsgroups dataset. The second one ```20_Newsgroups_Machine_Learning.ipynb``` is the application of machine learning techniques to train a classification model using the dataset.
